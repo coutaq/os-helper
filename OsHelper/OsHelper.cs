@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace OsHelper
+namespace Coutaq
 {
     public class OsHelper
     {
