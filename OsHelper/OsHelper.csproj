@@ -1,7 +1,13 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>Coutaq</AssemblyName>
+    <RootNamespace>Coutaq</RootNamespace>
+    <Description>A basic library I wrote to make compatability easier.</Description>
+    <RepositoryUrl>https://github.com/coutaq/os-helper</RepositoryUrl>
+    <Version>1.0.1</Version>
+    <RepositoryType>github</RepositoryType>
   </PropertyGroup>
 
 </Project>
